@@ -25,6 +25,5 @@ def open_program():
         #user closes window
         if event == sg.WIN_CLOSED:
             break
-    window.close()
     #stop main
     exit()
